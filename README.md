@@ -1,8 +1,14 @@
+
+<div align="center">
+  <h1>Vue-Calculator</h1>
+  <span> 中文 | <a href="./README-EN.md">English</a></span>
+</div>
+
 # 指南
 
 ## 简介
 
-*vue=calculator*是基于JavaScript标准并使用[Vue框架](https://vuejs.org/guide/introduction.html#what-is-vue)开发的开源**单页应用程序**(SPA)，它可以完成基本的数学运算(+-×÷)。
+*Vue=Calculator*是基于JavaScript标准并使用[Vue框架](https://vuejs.org/guide/introduction.html#what-is-vue)开发的开源**单页应用程序**(SPA)，它可以完成基本的数学运算(+-×÷)。
 
 ## ⚠️注意
 
@@ -33,4 +39,4 @@ pnpm dev
 
 [MIT许可证](./LICENSE)
 
-Copyright (c) 2023 Made by [NonsenseStudio](https://github.com/NonesenseStudio)
+Copyright (c) 2023 [NonsenseStudio](https://github.com/NonesenseStudio)
