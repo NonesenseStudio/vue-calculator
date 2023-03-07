@@ -8,7 +8,7 @@
 
 ## 简介
 
-*Vue=Calculator*是基于JavaScript标准并使用[Vue框架](https://vuejs.org/guide/introduction.html#what-is-vue)开发的开源**单页应用程序**(SPA)，它可以完成基本的数学运算(+-×÷)。
+*Vue=Calculator*是基于JavaScript标准并使用[Vue框架](https://vuejs.org/)开发的开源**单页应用程序**(SPA)，它可以完成基本的数学运算(+-×÷)。
 
 ## ⚠️注意
 
